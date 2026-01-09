@@ -24,4 +24,4 @@ Fun Facts 😄
 
 Hobbies: anime, gym, building things
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MedNour24&color=blue)
