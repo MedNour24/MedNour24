@@ -23,3 +23,5 @@ Fun Facts 😄
 * I hoard sticky notes for no reason 📝
 
 Hobbies: anime, gym, building things
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
