@@ -1,4 +1,4 @@
-Hey there! 👋
+# Hey there! 👋
 
 I'm Med, a computer science student based in Tunisia.
 
