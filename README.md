@@ -7,7 +7,7 @@ I love building things on the web and exploring anything related to AI, code, an
 If a project idea hits me, I usually end up coding it, testing it, breaking it, and rebuilding it better.
 
 My main tech stack:
-HTML, CSS, JavaScript, Python, C, C++
+HTML, CSS, JavaScript, SQL, Python, C, C++
 I enjoy clean code, algorithms, and anything that challenges my brain.
 
 I’ve got a few projects pinned — and many more still in progress or waiting to be shipped.
