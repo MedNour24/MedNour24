@@ -16,10 +16,10 @@ If you’re curious about what I’m learning or building, feel free to explore 
 
 Fun Facts 😄
 
-* I’m obsessed with AI and automation
+* I’m obsessed with AI and automation.
 
-* I talk to my plants and hope they talk back 🌱
+* I talk to my plants and hope they talk back 🌱.
 
-* I hoard sticky notes for no reason 📝
+* I hoard sticky notes for no reason 📝.
 
 Hobbies: anime, gym, building things.
